@@ -1,0 +1,4 @@
+[submodule "Trust-Code/odoo-brasil"]
+	path = Trust-Code/odoo-brasil
+	url = git@github.com:Trust-Code/odoo-brasil.git
+	branch = 12.0
